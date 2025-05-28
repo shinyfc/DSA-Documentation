@@ -8,3 +8,12 @@ This is where i started my portfolio building while taking my data analysis clas
 
 - powerBi 
 - ms excel for data cleaning [Download Here](http://microsoft.com)
+  
+  ### Data Analysis
+
+  
+  SQL
+
+  
+  SELECT * FROM EMPLOYEE
+
